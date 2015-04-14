@@ -14,7 +14,6 @@
    limitations under the License.
 ******************************************************************************/
 #include "ti_ccxxx0.h"
-#include "ti_ccxxx0_settings.h"
 
 /** For TX Mode */
 static volatile GPIO_TypeDef* _TI_CCxxx0_TXGDO_GPIO_Port;
